@@ -15,3 +15,7 @@ Antes de começar, você precisa ter o Docker e o Docker Compose instalados em s
    ```bash
    git clone https://github.com/OcilioJose/compose.git
    cd compose
+
+   docker-compose up
+   
+ Acesse http://localhost:8080 no seu navegador. Você deverá ver a página HTML que você criou.
